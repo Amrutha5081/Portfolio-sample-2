@@ -94,11 +94,7 @@ If your run into issues installing the dependencies with NPM, use this below com
 $ sudo npm install --unsafe-perm=true --allow-root
 ```
 
-Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally. It should look like the below screenshot.
-
-<h2 align="center">
-  <img src="https://github.com/cobiwave/gatsby-simplefolio/blob/master/examples/example.png" alt="Simplefolio" width="100%">
-</h2>
+Once your server has started, go to this url `http://localhost:1234/` to see the portfolio locally.
 
 ---
 
@@ -324,7 +320,7 @@ $secondary-color: #00cdac;
 
 Once you finish your setup. You need to put your website online!
 
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.
+I highly recommend to use [Netlify](https://netlify.com) and Vercel(https://vercel.com) because it is super easy.
 
 ## Others versions 👥
 
